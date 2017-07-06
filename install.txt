@@ -1,0 +1,9 @@
+安裝nodejs后会有npm命令
+
+npm 可以安裝node插件
+
+cnpm使用淘寶的鏡像http://npm.taobao.org
+
+安裝命令：npm install cnpm -g --registry=https://registry.npm.taobao.org
+
+這樣cnpm 也可以正常安裝插件了
